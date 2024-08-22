@@ -74,3 +74,5 @@ DELETE FROM employee
 WHERE age<20;
 ````
 <img src="https://github.com/user-attachments/assets/cbcb29cc-9565-4352-89f8-16374d301f92" height=70% width=40%>
+
+<img src="https://github.com/user-attachments/assets/3a456dbe-ad11-44d7-834e-a2235662821f" height=70% width=40%>
